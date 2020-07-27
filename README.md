@@ -23,6 +23,8 @@ A challenge for the Launch date section of the project was using a pivot table a
 
 A challenge for the Goal section of the analysis was using the COUNTIFS function to bring data to the new sheet from the main dataset.  I had never used this function before, and it took a few tries to really understand the syntax and to render the data correctly.  For instance, I was using ' when I should have been using ".  My final chart does not match the chart in the project example and I cannot for the life of me figure out why.  It is very close and I can only surmise that there is an error in how I rendered the data into the new sheet, but I am unable to determine the reason.  When the Kickstarter sheet is filtered to only include plays, there are no "canceled" outcomes. However when the COUNTIF function is used, it shows some 'canceled' outcomes nonetheless.  I am unsure if that is the problem, or how to fix it, since the Kickstarter sheet was filtered when I used the function.
 
+Also my images don't work and I don't know how to make them.
+
 ## Results
 
 ### Outcomes Based on Launch Date
