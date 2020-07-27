@@ -28,12 +28,12 @@ Also my images don't work and I don't know how to make them.
 ## Results
 
 ### Outcomes Based on Launch Date
-Two conclusions that can be drawn from the analysis of Outcomes Based on Launch Date are that campaigns that are Launched in the months of May are the most likely to be successful, with June a close second, and those launched in December are the least likely.
+Two conclusions that can be drawn from the analysis of Outcomes Based on Launch Date are that campaigns that are launched in the month of May are the most likely to be successful, with June a close second, and those launched in December are the least likely to succeed.
 
 ### Outcomes Based on Goals
-Analysis of the data for success based on the amount of the fundraising goal show that small campaigns, less than $1000, show the highest percentage of success.  However, the highest number of campaigns are between $1000 and $4999, and 66% of those are also successful.  So a campaign between $0 and $4999 have the highest likelihood of success overall.
+Analysis of the outcome based on the amount of the fundraising goal shows that small campaigns, less than $1000, show the highest percentage of success.  However, the highest number of campaigns are between $1000 and $4999, and 66% of those are also successful.  So a campaign between $0 and $4999 has the highest likelihood of success overall.
 
 ### Limitations of the Dataset
 One limitation of this dataset is that the location data only provides for the country of origin.  Theater tends to be most heavily produced in large cities where there is both a larger audience for the productions and a larger pool of backers for fundraising campaigns. I would be interested to see how the data corresponds to city size.  Another limitation might be demographic information on backers of successful campaigns.  It would be useful to know if campaigns targeted to a specific age group, for example, would yield better results.  
 ### Additional Tables and Graphs
-Within the limits of this dataset, it would be helpful to have a few additional tables or charts to clarify the data more thoroughly.  For instance, a simple bar chart of the goal ranges of successful campaigns, to succinctly clarify the success rate of smaller efforts.  Also I think a table/chart showing the outcomes of campaigns relative to the length of the campaign.  I think it likely that there is an ideal length of time needed to secure enough backers and donations.
+Within the limits of this dataset, it would be helpful to have a few additional tables or charts to clarify the data more thoroughly.  For instance, a simple bar chart of the goal ranges of successful campaigns, to succinctly show the success rate of smaller efforts.  Also I think a table/chart showing the outcomes of campaigns relative to the length of the campaign would be useful.  I think it likely that there is an ideal length of time needed to secure enough backers and donations.
