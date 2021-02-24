@@ -11,12 +11,12 @@ I completed this analysis by sorting and clarifying the data to show the correla
 
 ### Launch Date Analysis
 To determine the relationship between the campaign's success and it's start date, I created a pivot table from the main dataset to analyze the outcome of the campaign relative to the month of the year in which it started.  I also created a chart to visualize the pivot table.  I filtered this data to specifically look at Kickstarter campaigns for theater only.  
-![Launch date screenshot.PNG](https://github.com/Alawler12/Kickstarter-Analysis/blob/master/Launch%20date%20screenshot.PNG)
+![Launch date screenshot.PNG](https://github.com/Alawler12/Kickstarter-Analysis/blob/master/images/Launch%20date%20screenshot.PNG)
 
 ### Goal Amount Analysis
 To determine the relationship between a campaign's success and it's stated fundraising goal, I created a new sheet that broke down the data into amount ranges and determined the number of successes and failures of campaigns within each range. I both counted the number of each outcome per range, and then determined the percentage of each outcome based on the total number of projects in each range.  
-![goals screenshot.PNG](https://github.com/Alawler12/Kickstarter-Analysis/blob/master/goals%20screenshot.PNG)
-![Outcomes_vs_Goals.png](https://github.com/Alawler12/Kickstarter-Analysis/blob/master/Outcomes_vs_Goals.png)
+![goals screenshot.PNG](https://github.com/Alawler12/Kickstarter-Analysis/blob/master/images/goals%20screenshot.PNG)
+![Outcomes_vs_Goals.png](https://github.com/Alawler12/Kickstarter-Analysis/blob/master/images/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 A challenge for the Launch date section of the project was using a pivot table and chart, having only limited experience before this time.  After some experimentation, I was able to get the table to display the appropriate information and I was also able to format both the table and chart to look how I like in terms of colors and line weights.
